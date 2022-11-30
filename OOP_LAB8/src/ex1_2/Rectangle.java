@@ -1,0 +1,28 @@
+package ex1_2;
+
+public class Rectangle implements GeometricObject {
+	private double width, length;
+
+	public Rectangle(double width, double length) {
+		this.width = width;
+		this.length = length;
+	}
+
+	@Override
+	public double getPerimeter() {
+		// TODO Auto-generated method stub
+		return (width + length) * 2;
+	}
+
+	@Override
+	public double getArea() {
+		// TODO Auto-generated method stub
+		return width * length;
+	}
+
+	@Override
+	public String toString() {
+		return "Rectangle[width=" + width + ", length=" + length + "]";
+	}
+
+}
