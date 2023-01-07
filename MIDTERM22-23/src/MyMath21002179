@@ -1,9 +1,0 @@
-e^2.2*cos(3.3) (without using java doc)=-8255.503849168708
-e^2.2*cos(3.3) (using java doc)=-8.912018253845606
-Exception in thread "main" java.lang.NumberFormatException: For input string: "9.0104.01183.013182.0142805.01485172.01.4480427E71.25497034E88.15730721E89.5440494357E101.102867934792E121.2545122758259E131.39788510734886E141.514375532961265E151.5749505542797156E161.53557679042272288E171.33083321836635981E188.6504159193813381E18"
-	at java.base/java.lang.NumberFormatException.forInputString(NumberFormatException.java:67)
-	at java.base/java.lang.Integer.parseInt(Integer.java:668)
-	at java.base/java.lang.Integer.parseInt(Integer.java:786)
-	at MyMath.decimalTo(MyMath.java:43)
-	at MyMath.toRadix(MyMath.java:61)
-	at MyMath.main(MyMath.java:67)
