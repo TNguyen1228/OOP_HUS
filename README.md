@@ -6,7 +6,7 @@ OOP in Java Language
 The content of this repo is built on:
 
 - Subject: **Object Oriented Programming** 
-- Faculty: [Khoa Toán Cơ Tin học](http://mim.hus.vnu.edu.vn/en)
+- Faculty: [Faculty of Mathematics – Mechanics – Informatics](http://mim.hus.vnu.edu.vn/en)
 - University: [Hanoi University of Science](http://hus.vnu.edu.vn/)
 - Lecturer: MS Quan Thai Ha
 
