@@ -1,0 +1,15 @@
+d: [12.5, 14.9, 87.4, 55.8]
+d2[2.0, 4.0, 5.0, 6.0, 7.8]
+Length d: 4
+Elements (after append): [12.5, 14.9, 87.4, 55.8, 4.0]
+Elements (after insert): [12.5, 2.0, 14.9, 87.4, 55.8, 4.0]
+Elements (after remove): [12.5, 2.0, 14.9, 87.4, 4.0]
+Magnitude: 89.64942833058112
+Distance from av to av2: 82.78079487417357
+Plus av with av2: [14.5, 6.0, 19.9, 93.4, 11.8]
+Scale av with 3:[37.5, 6.0, 44.7, 262.20000000000005, 12.0]
+Dot av with av2: 663.1000000000001
+
+Elements: [1.0, 2.0, 3.0]
+Length: 3
+Magnitude: 3.7416573867739413
