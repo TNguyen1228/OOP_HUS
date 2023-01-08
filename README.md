@@ -26,5 +26,5 @@ The content of this repo is built on:
 - Behavioral Design Patterns: command, iterator, observer, strategy, visitor
 
 ## Reference
-- (7th Edition) Cay S. Horstmann - Big Java_ Early Objects, 7e-Wiley (2019)
-- Eric Freeman, Elisabeth Robson - Head F ... nted Software-O'Reilly Media (2020)
+- Alexander Shvets - Dive Into Design Patterns (2019)
+- 
