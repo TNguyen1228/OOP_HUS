@@ -21,9 +21,9 @@ The content of this repo is built on:
 - Abstraction and ADT
 
 [3. Design Pattern]
-- Structural Design Patterns: adapter, bridge, composite, decorator
-- Creational Design Patterns: factory method, abstract factory, builder, singleton
-- Behavioral Design Patterns: command, iterator, observer, strategy, visitor
+- Structural Design Patterns: Adapter, Bridge, Composite, Decorator
+- Creational Design Patterns: Factory method, Abstract Factory, Builder, Singleton
+- Behavioral Design Patterns: Command, Iterator, Observer, Strategy, Visitor
 
 ## Reference
 - Alexander Shvets - Dive Into Design Patterns (2019)
